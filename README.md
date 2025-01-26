@@ -17,7 +17,7 @@ This tool is particularly useful for converting **Telegram contact exports** (in
 ## How to Use
 
 ### Prerequisites
-- Python 3.x
+- Python 3
 - `json` module (included in Python by default)
 
 ### Running the Script
