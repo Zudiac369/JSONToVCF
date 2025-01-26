@@ -1,4 +1,4 @@
-# JSON to VCF Converter
+# Build VCF Converter from TELEGRAM json contacts output file
 
 A simple and practical Python script to convert JSON files containing contact information into VCF (vCard) files. VCF files are a standard format for storing contact information and can be easily imported into devices like smartphones.
 
